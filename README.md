@@ -1,4 +1,4 @@
-# animal_dintinguish
+# Facial Expression Distinguish
 This project basically distinguishes between happy and sad faces of human subjects
 
 1. first create a folder named 'data' then add 1 subfolders name 'happy' and 'sad' containing training data for
